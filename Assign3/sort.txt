@@ -1,0 +1,21 @@
+sort1 uses: bubble sort
+
+How do you know?:
+time complexity of best case O(n)
+time complexity of best  case - O(n)        [used  4.661s for sorted   ]
+time complexity of worst case - O(n**2)     [used 13.894s for reversed ]
+time complexity of avg   case - O(n**2)     [used 21.308s for random   ]
+
+sort2 uses: merge sort
+
+How do you know?:
+time complexity of best  case - O(nlogn)    [used  8.351s for sorted   ]
+time complexity of worst case - O(nlogn)    [used  6.456s for reversed ]
+time complexity of avg   case - O(nlogn)    [used  9.116s for random   ]
+
+sort3 uses: selection sort
+
+How do you know?:
+time complexity of best  case - O(n**2)     [used  9.883s for sorted   ]
+time complexity of worst case - O(n**2)     [used  9.526s for reversed ]
+time complexity of avg   case - O(n**2)     [used 11.852s for random   ]
